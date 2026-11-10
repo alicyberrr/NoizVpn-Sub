@@ -8,8 +8,8 @@
 
 | فرمت | لینک |
 |---|---|
-| Base64 (استاندارد) | `https://raw.githubusercontent.com/<owner>/<repo>/main/output/base64.txt` |
-| متن ساده | `https://raw.githubusercontent.com/<owner>/<repo>/main/output/plain.txt` |
+| Base64 (استاندارد) | `https://raw.githubusercontent.com/alicyberrr/NoizVpn-Sub/main/output/base64.txt` |
+| متن ساده | `https://raw.githubusercontent.com/alicyberrr/NoizVpn-Sub/main/output/plain.txt` |
 
 ## نحوه استفاده
 
