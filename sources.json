@@ -1,0 +1,10 @@
+{
+  "telegram_channels": [
+    "v2box_v2"
+  ],
+  "subscription_links": [
+    "https://raw.githubusercontent.com/barry-far/v2ray-config/main/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/miladtahanian/Config-Collector/main/mixed_iran.txt",
+    "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/mixed_iran.txt"
+  ]
+}

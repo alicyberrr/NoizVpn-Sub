@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+geoip/
+*.session
+*.session-journal
+.DS_Store
